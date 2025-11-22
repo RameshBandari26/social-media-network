@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:4000';
+const API_BASE = 'https://social-media-net.onrender.com/';
 
 const create = async (params, credentials, post) => {
   try {
